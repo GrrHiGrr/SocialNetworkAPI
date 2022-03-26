@@ -14,9 +14,9 @@
 
 ## Usage
 
-![screenshot1](screenshot1.jpg)
+![screenshot1](screenshot.png)
 
-[Heroku Deployed Application](https://powerful-mesa-58882.herokuapp.com/?id=620ae30c0b086700164ab986)
+[Heroku Deployed Application](https://grrhigrr-socialnetworkapi.herokuapp.com/)
 
 
 ## License
